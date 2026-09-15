@@ -1,0 +1,6 @@
+{
+  "name": "Product Demand Predictor",
+  "description": "Predict future product demand using machine learning regression models (Linear Regression & Random Forest) trained entirely in the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
